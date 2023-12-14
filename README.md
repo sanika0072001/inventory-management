@@ -28,8 +28,4 @@ Team project using Java language.
 - In each order costumer can order one or more items.
 - when costumers finish thier order total price will be displayed.  
 
-## Team members:
-- Danyar Khdir 
-- Ahuz Mosa
-- Shadya Muhammad 
-- Shamil Jameel
+
