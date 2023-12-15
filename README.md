@@ -1,5 +1,5 @@
 # Inventory-Managment-System
-Team project using Java language.
+project using Java language.
 ## **The Requirments:**
 
 ### Admin
